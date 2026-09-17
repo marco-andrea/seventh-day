@@ -9,4 +9,4 @@ Viewer links only work while this repository is public.
 
 | Timeline | View | Last changed |
 | --- | --- | --- |
-| SevenDay | [Open](https://www.timelines.studio/viewer/gh/crazy-electron/seventh-day/main/sevenday.timeline) |  |
+| SeventhDay | [Open](https://www.timelines.studio/viewer/gh/crazy-electron/seventh-day/main/seventhday.timeline) |  |
